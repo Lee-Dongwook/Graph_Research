@@ -1,0 +1,11 @@
+{
+  "name": "graph",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "sh -ac '. ./.env; react-scripts start'",
+    "build": "sh -ac '. ./.env; react-scripts build'",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}
