@@ -16,6 +16,7 @@
     "@reduxjs/toolkit": "^2.6.0",
     "framer-motion": "^12.4.7",
     "neo4j-driver": "^5.28.1",
+    "neo4j-driver-core": "^5.28.1",
     "nice-color-palettes": "^4.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",

@@ -29,6 +29,9 @@ importers:
       neo4j-driver:
         specifier: ^5.28.1
         version: 5.28.1
+      neo4j-driver-core:
+        specifier: ^5.28.1
+        version: 5.28.1
       nice-color-palettes:
         specifier: ^4.0.0
         version: 4.0.0
